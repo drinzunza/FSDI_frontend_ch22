@@ -1,0 +1,19 @@
+.footer {
+    background-color: #333;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.footer h5 {
+    margin-bottom: 5px;
+    font-weight: normal;
+    font-size: 18px;
+}
+
+
+.footer h6 {
+    margin-top: 5px;
+    font-weight: lighter;
+    font-size: 16px;
+}
